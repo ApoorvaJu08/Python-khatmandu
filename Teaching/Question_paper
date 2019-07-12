@@ -1,4 +1,4 @@
-1. Is Python case sensitive when dealing with identifiers?
+1. Is Python case sensitive when dealing with identifiers?                              (1X10 = 10) 
 a) yes
 b) no
 c) machine dependent
@@ -64,7 +64,7 @@ a) True
 b) False
 
 
-Short Answer Questions
+Short Answer Questions                                                             (5 X 3 = 15)
 1. What is the difference between = and ==?
 2. Given (x = 1), what will be the value of after we run (x += 2)?
 3. What is the result of 10 == “10”?
@@ -81,7 +81,7 @@ else :
 
 
 
-Long Answer Questions
+Long Answer Questions                                                               (7 X 5 = 35)
 1. Write a note on python operators.
 2. a) Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
    b) Write a Python program which accepts the radius of a circle from the user and compute the area.
